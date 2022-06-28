@@ -7,4 +7,3 @@ if (n%7 == 5 ) Console.WriteLine("Пятница");
 if (n%7 == 6 ) Console.WriteLine("Суббота");
 if (n%7 == 0 ) Console.WriteLine("Воскресенье");
 
-
